@@ -1,0 +1,17 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "its node js tutorial by prince",
+  "license": "ISC",
+  "author": "prince kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "lodash": "^4.17.23",
+    "nodemon": "^3.1.14"
+  }
+}
